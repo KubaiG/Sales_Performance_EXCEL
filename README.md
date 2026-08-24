@@ -132,7 +132,7 @@ Transaction dates were used to evaluate performance over time and identify chang
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 Several observations emerge from the analysis:
 
